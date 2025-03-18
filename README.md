@@ -1,4 +1,3 @@
-# About Me
 
 ![Alt Text](https://pokemonrevolution.net/forum/uploads/monthly_2023_07/gengar-cute-laugh-2s846klk8jhiz7mk.gif.dbac6d1dff446f3826803b578d13d4f5.gif)
 
