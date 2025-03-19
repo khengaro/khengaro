@@ -1,5 +1,5 @@
 
-![Alt Text](https://raw.githubusercontent.com/khengaro/khengaro/refs/heads/main/gngr.gif)
+![Alt Text](https://raw.githubusercontent.com/khengaro/khengaro/refs/heads/main/gngro.gif)
 
 ## 👋 Hi there!
 I'm a passionate developer and data analyst working on Flutter projects and coding in VS Code. I love building intuitive and efficient applications that make a difference.
