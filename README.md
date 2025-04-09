@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/khengaro/khengaro/blob/main/mylivewallpapers-com-Gengar-Pokemon-4K.gif)
+![Alt Text](https://github.com/khengaro/khengaro/blob/main/gngar.gif)
 
 ## I'm Khengaro!
 I'm a passionate developer and data analyst working on Flutter projects and coding in VS Code. I love building intuitive and efficient applications that make a difference.
